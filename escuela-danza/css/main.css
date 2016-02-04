@@ -1,0 +1,68 @@
+header .row {
+	margin: 30px 0px;
+	
+}
+nav a {
+	display: inline-block;
+	margin-top: 30px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+section .fondo{
+	background: url('../img/dance_1.jpg') no-repeat;
+	background-size: cover;
+	background-position: 0 3%;
+	padding: 70px 0px 0px 100px;
+}
+
+/*--Article-Background--*/
+
+.fondo {
+	height: 380px;
+}
+
+.fondo h1 {
+	font-size: 60px;
+	font-family: LatoMedium;
+}
+.fondo p {
+	font-size: 12px;
+	padding: 20px 0px 30px;
+}
+.boton-subcribete {
+	background: #192951;
+	border: none;
+	width: 120px;
+	height: 40px; 
+}
+/*Descripcion-1*/
+.offer, .trainer {
+	background-image: url(../img/textura_2.jpg);
+	overflow: hidden;
+	color: black;
+}
+
+.offer .row {
+	font-size: 22px;
+	width: 50%;
+	margin: 0 auto;
+	padding: 50px 0 65px;
+}
+
+.offer a {
+	background-color: #192951;
+	border-radius: 4px;
+	text-decoration: none;
+	font-size: 18px;
+	color: white;
+	padding: 15px 80px;
+}
+
+.offer a:hover {
+	background-color: #0B649C;
+	border-radius: 4px;
+	text-decoration: none;
+	font-size: 18px;
+	color: white;
+	padding: 15px 80px;
+}
